@@ -15,6 +15,6 @@ version="0.0.1",
 author="Muskan",
 author_email="muskan17ara@gmail.com",
 packages=find_packages(),
-    install_requires = get_requirements(), #S["pymongo"]
+    install_requires = get_requirements(), #["pymongo"]
     
 )
