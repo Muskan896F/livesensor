@@ -1,20 +1,15 @@
 from setuptools import find_packages, setup
-#from typing import List
-#from typing import List
+from typing import List
 
-def get_requirements()->list[str]:
-    get_requirements = list[str] =[]
-    return get_requirements
-
-
-
+def get_requirements() -> List[str]:
+    requirements_list: List[str] = []
+    return requirements_list
 
 setup(
-name='Sensor',
-version="0.0.1",
-author="Muskan",
-author_email="muskan17ara@gmail.com",
-packages=find_packages(),
-    install_requires = get_requirements(), #["pymongo"]
-    
+    name='sensor',
+    version='0.0.1',
+    author='Muskan',
+    author_email='muskan17ara@gmail.com',
+    packages=find_packages(),
+    install_requires=get_requirements(), 
 )

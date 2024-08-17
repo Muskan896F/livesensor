@@ -17,9 +17,7 @@
     ".nonadmin"
   ],
   "fn": "sqlite-3.45.3-h2bbff1b_0.conda",
-  "legacy_bz2_md5": "833b93a2daade3407898f15588945d83",
   "license": "blessing",
-  "license_family": "Other",
   "link": {
     "source": "C:\\Users\\md199\\anaconda3\\pkgs\\sqlite-3.45.3-h2bbff1b_0",
     "type": 1
@@ -71,7 +69,7 @@
   "sha256": "bb25d778d309491d947d3758ec79652aa637c1808041114b1bd45e8bdd7bd776",
   "size": 996331,
   "subdir": "win-64",
-  "timestamp": 1714488344682,
+  "timestamp": 1714488344000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.45.3-h2bbff1b_0.conda",
   "version": "3.45.3"
 }

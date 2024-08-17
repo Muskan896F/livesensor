@@ -1,6 +1,5 @@
 Metadata-Version: 2.1
-Name: Sensor
+Name: sensor
 Version: 0.0.1
 Author: Muskan
 Author-email: muskan17ara@gmail.com
-Requires-Dist: pymongo
